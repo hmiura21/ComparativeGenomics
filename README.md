@@ -7,11 +7,14 @@ This project investigates a potential outbreak by analyzing 10 Illumina-sequence
 ---
 
 ## 📂 Project Structure
+```bash
 comparative/
 ├── tree.png # Phylogenetic tree (can be .png, .svg, or .pdf)
 ├── outliers.txt # Plain text list of unrelated samples (SRA accessions)
 ├── cmds.sh # All shell commands used, with comments
 └── README.md # Project summary and structure (this file)
+```
+
 
 ---
 
